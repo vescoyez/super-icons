@@ -1,0 +1,27 @@
+{
+  "name": "super-icons",
+  "homepage": "https://github.com/vescoyez/super-icons",
+  "authors": [
+    { "name": "Valentin Escoyez", "twitter": "@ValentinEscoyez", "homepage": "http://valentin.escoyez.be" }
+  ],
+  "description": "Best way to include svg icons to your web sites",
+  "main": "super-icons.css",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "svg",
+    "icons"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "svg4everybody": "~2.0.0"
+  }
+}
