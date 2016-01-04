@@ -26,11 +26,11 @@ run svg4everybody
 <script>svg4everybody();</script>
 ```
 
-**4. add your icon**
+**4. Add your icon**
 
 ```html
 <svg viewBox="0 0 24 24" class="si">
-  <use xlink:href="/md-icons/icons.svg#3d-rotation"></use>
+  <use xlink:href="bower_components/super-icons/md-icons/icons.svg#3d-rotation"></use>
 </svg>
 ```
 
