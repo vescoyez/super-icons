@@ -30,7 +30,7 @@ run svg4everybody
 
 ```html
 <svg viewBox="0 0 24 24" class="si">
-  <use xlink:href="bower_components/super-icons/md-icons/icons.svg#3d-rotation"></use>
+  <use xlink:href="/bower_components/super-icons/md-icons/icons.svg#3d-rotation"></use>
 </svg>
 ```
 
