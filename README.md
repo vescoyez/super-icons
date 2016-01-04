@@ -11,7 +11,7 @@ $ bower install super-icons
 **2. Add the stylesheet**
 
 ```html
-<link href="bower_components/super-icons/css/super-icons.css" rel="stylesheet">
+<link href="/bower_components/super-icons/css/super-icons.css" rel="stylesheet">
 ```
 
 **3. Add the polyfill for IE/Edge**
