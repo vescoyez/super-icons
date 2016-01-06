@@ -2,18 +2,64 @@
 <html>
   <head>
     <link href="/css/super-icons.css" rel="stylesheet">
+    <style>
+      .si-blue {
+        color: blue;
+      }
+      .si-red {
+        color: red;
+      }
+    </style>
   </head>
   <body>
+
+    <p>Basic Icon</p>
 
     <svg class="si">
       <use xlink:href="/md-icons/icons.svg#account-box"></use>
     </svg>
 
+    <p>Av Icon</p>
+
     <svg class="si">
       <use xlink:href="/md-icons/av.svg#airplay"></use>
     </svg>
 
-    <script src="/bower_components/svg4everybody/dist/svg4everybody.js"></script>
+    <p>Colored Icons</p>
+
+    <svg class="si si-blue">
+      <use xlink:href="/md-icons/icons.svg#account-box"></use>
+    </svg>
+
+    <svg class="si si-red">
+      <use xlink:href="/md-icons/icons.svg#account-box"></use>
+    </svg>
+
+    <p>Scaled Icons</p>
+
+    <svg class="si si-2x">
+      <use xlink:href="/md-icons/icons.svg#eject"></use>
+    </svg>
+
+    <svg class="si si-3x">
+      <use xlink:href="/md-icons/icons.svg#event"></use>
+    </svg>
+
+    <svg class="si si-4x">
+      <use xlink:href="/md-icons/icons.svg#explore"></use>
+    </svg>
+
+    <p>Scaled and colored Icons</p>
+
+    <svg class="si si-3x si-blue">
+      <use xlink:href="/md-icons/icons.svg#event"></use>
+    </svg>
+
+    <svg class="si si-3x si-red">
+      <use xlink:href="/md-icons/icons.svg#explore"></use>
+    </svg>
+
+    <script src="/bower_components/svg4everybody/dist/svg4everybody.min.js"></script>
     <script>svg4everybody();</script>
 
   </body>
