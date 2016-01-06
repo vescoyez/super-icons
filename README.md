@@ -37,3 +37,8 @@ run svg4everybody
 ## Icons
 
 Check the [Material Design icons](https://elements.polymer-project.org/elements/iron-icons?view=demo:demo/index.html&active=iron-icons) available
+
+## Compatibility
+
+Chrome, Safari, Firefox
+With polyfill: IE9+, EDGE
