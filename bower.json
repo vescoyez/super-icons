@@ -2,7 +2,11 @@
   "name": "super-icons",
   "homepage": "https://github.com/vescoyez/super-icons",
   "authors": [
-    { "name": "Valentin Escoyez", "twitter": "@ValentinEscoyez", "homepage": "http://valentin.escoyez.be" }
+    {
+      "name": "Valentin Escoyez",
+      "twitter": "@ValentinEscoyez",
+      "homepage": "http://valentin.escoyez.be"
+    }
   ],
   "description": "Best way to include svg icons to your web sites",
   "main": "super-icons.css",

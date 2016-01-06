@@ -29,7 +29,7 @@ run svg4everybody
 **4. Add your icon**
 
 ```html
-<svg viewBox="0 0 24 24" class="si">
+<svg class="si">
   <use xlink:href="/bower_components/super-icons/md-icons/icons.svg#3d-rotation"></use>
 </svg>
 ```
