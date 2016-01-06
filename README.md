@@ -41,4 +41,5 @@ Check the [Material Design icons](https://elements.polymer-project.org/elements/
 ## Compatibility
 
 Chrome, Safari, Firefox
+
 With polyfill: IE9+, EDGE
